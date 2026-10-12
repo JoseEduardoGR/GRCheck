@@ -11,7 +11,6 @@ Controles:
 
 import sys
 import time
-
 import cv2
 
 from util.face_engine import (
